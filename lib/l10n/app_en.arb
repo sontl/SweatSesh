@@ -15,11 +15,11 @@
   },
   "useDefaultServer": "Use default server",
   "@useDefaultServer": {
-    "description": "Toggle button allowing users to switch between the default and a custom wger server"
+    "description": "Toggle button allowing users to switch between the default and a custom SweatSesh server"
   },
   "useCustomServer": "Use custom server",
   "@useCustomServer": {
-    "description": "Toggle button allowing users to switch between the default and a custom wger server"
+    "description": "Toggle button allowing users to switch between the default and a custom SweatSesh server"
   },
   "invalidUrl": "Please enter a valid URL",
   "@invalidUrl": {
@@ -53,13 +53,13 @@
   "@invalidUsername": {
     "description": "Error message when the user enters an invalid username"
   },
-  "customServerUrl": "URL of the wger instance",
+  "customServerUrl": "URL of the SweatSesh instance",
   "@customServerUrl": {
-    "description": "Label in the form where the users can enter their own wger instance"
+    "description": "Label in the form where the users can enter their own SweatSesh instance"
   },
   "customServerHint": "Enter the address of your own server, otherwise the default one will be used",
   "@customServerHint": {
-    "description": "Hint text for the form where the users can enter their own wger instance"
+    "description": "Hint text for the form where the users can enter their own SweatSesh instance"
   },
   "reset": "Reset",
   "@reset": {
@@ -440,7 +440,7 @@
   },
   "goToDetailPage": "Go to detail page",
   "@goToDetailPage": {},
-  "aboutDescription": "Thank you for using wger! wger is a collaborative open source project, made by fitness enthusiasts from around the world.",
+  "aboutDescription": "Thank you for using SweatSesh! SweatSesh is a collaborative open source project, made by fitness enthusiasts from around the world.",
   "@aboutDescription": {
     "description": "Text in the about dialog"
   },
@@ -588,7 +588,7 @@
   "@productNotFound": {
     "description": "Header label for dialog when product is not found with barcode"
   },
-  "productNotFoundDescription": "The product with the scanned barcode {barcode} was not found in the wger database",
+  "productNotFoundDescription": "The product with the scanned barcode {barcode} was not found in the SweatSesh database",
   "@productNotFoundDescription": {
     "description": "Dialog info when product is not found with barcode",
     "type": "text",
@@ -644,7 +644,7 @@
   "settingsCacheTitle": "Cache",
   "settingsCacheDescription": "Exercise cache",
   "settingsCacheDeletedSnackbar": "Cache successfully cleared",
-  "aboutPageTitle": "About Wger",
+  "aboutPageTitle": "About SweatSesh",
   "contributeExerciseWarning": "You can only contribute exercises if your account is older than {days} days and have verified your email",
   "@contributeExerciseWarning": {
     "description": "Number of days before which a person can add exercise",

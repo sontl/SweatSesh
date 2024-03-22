@@ -26,8 +26,8 @@ import 'package:table_calendar/table_calendar.dart';
 // * https://pub.dev/packages/flex_color_scheme
 // * https://rydmike.com/flexseedscheme/demo-v1/#/
 
-const Color wgerPrimaryColor = Color(0xff2a4c7d);
-const Color wgerPrimaryButtonColor = Color(0xff266dd3);
+const Color wgerPrimaryColor = Color.fromARGB(255, 154, 32, 107);
+const Color wgerPrimaryButtonColor = Color.fromARGB(255, 211, 38, 110);
 const Color wgerPrimaryColorLight = Color(0xff94B2DB);
 const Color wgerSecondaryColor = Color(0xffe63946);
 const Color wgerSecondaryColorLight = Color(0xffF6B4BA);
