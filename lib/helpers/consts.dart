@@ -24,8 +24,8 @@ import 'package:intl/intl.dart';
 const double ICON_SIZE_SMALL = 20;
 
 /// Default wger server during login
-const DEFAULT_SERVER_PROD = 'https://wger.de';
-const DEFAULT_SERVER_TEST = 'https://wger-master.rge.uber.space/';
+const DEFAULT_SERVER_PROD = 'http://168.138.106.90';
+const DEFAULT_SERVER_TEST = 'http://168.138.106.90';
 
 // Debug mode Login Data
 const TESTSERVER_USER_NAME = 'user';
